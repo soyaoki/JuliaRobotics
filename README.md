@@ -4,6 +4,7 @@ This is the Julia implementation of the [PythonRobotics](https://github.com/Atsu
 
 ## Requirement
 
+- Julia 1.4.x
 - Plots
 - LinearAlgebra
 - Distributions
